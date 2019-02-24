@@ -10,7 +10,7 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 Clone this repository and proceed as following:
 
 - Run `composer install`
-- Copy `.env.example` to `.env` and do the rest of the magic like in any other 
+- Copy `.env.example` to `.env` and do the rest of the magic like in any other Laravel projects
 - Open the project in your browser, and you should be good to go.
 
 ## License
