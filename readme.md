@@ -2,9 +2,6 @@
 
 This is a basic fresh copy of Laravel with some tweaks to demonstrate [Laravel Multiauth package](https://github.com/bardh7/multiauth).
 
-
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
-
 ## Installing Multiauth Demo
 
 Clone this repository and proceed as following:
